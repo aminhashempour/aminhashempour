@@ -29,7 +29,7 @@ Building real-world AI and web projects 🚀
 - Flutter (Dart)
 
 ### 📊 GitHub Stats
-[![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amin756&show_icons=true&theme=radical)](https://github.com/amin756)
+[![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amin756&show_icons=true&theme=radical)](https://github.com/aminhashempour)
 
 ### 📫 Connect with Me
 - Email: amin.dev46565@gmail.com
