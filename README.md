@@ -1,39 +1,52 @@
-# Hi there 👋, I'm Amin Hashempour
+<div align="center">
+  <img src="https://github.com/aminhashempour.png?size=200" alt="Amin Hashempour" style="border-radius:50%;"/>
+  
+  <h1>Hi there, I'm Amin 👋</h1>
+  <p><strong>Web Programmer & AI Enthusiast</strong> | Passionate Coder | CS50 & freeCodeCamp Certified</p>
+  
+  <p>Building real-world projects with modern web technologies and Artificial Intelligence. Always learning and pushing boundaries.</p>
+  
+  <img src="https://komarev.com/ghpvc/?username=aminhashempour&color=brightgreen&style=flat-square" alt="Profile views"/>
+  
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=aminhashempour&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+</div>
 
-**Passionate Developer** focused on **Artificial Intelligence** and **Web Development**  
-Building real-world AI and web projects 🚀
-
-### 🏆 Certifications & Achievements
-- CS50's Introduction to Artificial Intelligence with Python – Harvard University
-- Responsive Web Design – freeCodeCamp
-- Artificial Intelligence and Data Science Certification – HP
-- Machine Learning Certification – iLearn Academy
-- Certifications from dub.ai and others
+### 🏆 Certifications
+- CS50's Introduction to Artificial Intelligence with Python (Harvard University)
+- Responsive Web Design (freeCodeCamp)
+- HP AI / Data Science
+- dub.ai
 
 ### 🚀 Featured Projects
-- **Lung Cancer Detection** – Regression model for predicting lung cancer risk/severity (Python, Machine Learning)
-- **House Price Prediction** – Regression model using machine learning to predict house prices
-- **More projects coming soon...**
+- **Lung Cancer Detection** – Regression Model using Machine Learning
+- **House Price Prediction** – ML-based Prediction System
+- More Web & AI projects coming soon...
 
-> Pin your best repositories here for maximum visibility!
+Pin your best repositories to showcase them! 📌
 
-### 💻 Skills & Tech Stack
-![HTML](https://img.shields.io/badge/HTML-Advanced-orange)
-![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
-![Python](https://img.shields.io/badge/Python-Expert-green)
-![Dart](https://img.shields.io/badge/Dart-Intermediate-lightgrey)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-
-- Machine Learning & Data Science
-- Web Development
-- Flutter (Dart)
+### 🛠 Tech Stack & Skills
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white&style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-Intermediate-02569B?logo=flutter&logoColor=white&style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-000000?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data%20Science-Advanced-0F9D58?logo=googlecloud&logoColor=white&style=flat-square)
+![Web Development](https://img.shields.io/badge/Web%20Development-Expert-4CAF50?style=flat-square)
 
 ### 📊 GitHub Stats
-[![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amin756&show_icons=true&theme=radical)](https://github.com/aminhashempour)
+<img src="https://github-readme-stats.vercel.app/api?username=aminhashempour&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Amin's GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aminhashempour&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminhashempour&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 ### 📫 Connect with Me
-- Email: amin.dev46565@gmail.com
-- Website: [www.aminhashempour.ir](https://www.aminhashempour.ir)
-- Telegram: [@amin_dev5](https://t.me/amin_dev5)
+- 🌐 Website: [aminhashempour.ir](https://www.aminhashempour.ir)
+- ✉️ Email: amin.dev46565@gmail.com
+- 💬 Telegram: [@amin_dev5](https://t.me/amin_dev5)
 
-Thanks for visiting! Feel free to star repos or reach out for collaborations ⭐
+<div align="center">
+  <i>Open to collaborations on Web and AI projects! ⭐ Star my repos if you like them 🚀</i>
+</div>
