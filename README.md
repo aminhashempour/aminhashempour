@@ -1,52 +1,52 @@
 <div align="center">
-  <img src="https://github.com/aminhashempour.png?size=200" alt="Amin Hashempour" style="border-radius:50%;"/>
+
+  <img src="https://github.com/aminhashempour.png?size=200" width="150" style="border-radius:50%; border:4px solid #64ffda;" alt="Amin"/>
+
+  <h1>Hey, I'm Amin 🚀</h1>
   
-  <h1>Hi there, I'm Amin 👋</h1>
-  <p><strong>Web Programmer & AI Enthusiast</strong> | Passionate Coder | CS50 & freeCodeCamp Certified</p>
-  
-  <p>Building real-world projects with modern web technologies and Artificial Intelligence. Always learning and pushing boundaries.</p>
-  
-  <img src="https://komarev.com/ghpvc/?username=aminhashempour&color=brightgreen&style=flat-square" alt="Profile views"/>
-  
-  <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=aminhashempour&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <p>
+    <code>Web Programmer & AI Enthusiast</code><br/>
+    Building the future with code, one commit at a time.
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=aminhashempour&color=64ffda&style=for-the-badge&label=PROFILE+VIEWS" alt="views"/>
+
+  <br/><br/>
+
+  <!-- GitHub Snake -->
+  <img src="https://github.com/aminhashempour/aminhashempour/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
 </div>
 
-### 🏆 Certifications
-- CS50's Introduction to Artificial Intelligence with Python (Harvard University)
-- Responsive Web Design (freeCodeCamp)
-- HP AI / Data Science
-- dub.ai
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,js,flutter,git,github,vscode,&perline=8&theme=dark" />
+</p>
 
-### 🚀 Featured Projects
-- **Lung Cancer Detection** – Regression Model using Machine Learning
-- **House Price Prediction** – ML-based Prediction System
-- More Web & AI projects coming soon...
+### 📊 Activity & Stats
+<div align="center">
 
-Pin your best repositories to showcase them! 📌
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminhashempour&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminhashempour&layout=compact&theme=react&hide_border=true"/>
 
-### 🛠 Tech Stack & Skills
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white&style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Flutter](https://img.shields.io/badge/Flutter-Intermediate-02569B?logo=flutter&logoColor=white&style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-000000?style=flat-square)
-![Data Science](https://img.shields.io/badge/Data%20Science-Advanced-0F9D58?logo=googlecloud&logoColor=white&style=flat-square)
-![Web Development](https://img.shields.io/badge/Web%20Development-Expert-4CAF50?style=flat-square)
+  <br/><br/>
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=aminhashempour&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Amin's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminhashempour&theme=react&hide_border=true" alt="streak"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aminhashempour&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminhashempour&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+### 🏆 Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aminhashempour&theme=onedark&no-frame=true&margin-w=15&row=1" />
+</div>
 
-### 📫 Connect with Me
-- 🌐 Website: [aminhashempour.ir](https://www.aminhashempour.ir)
-- ✉️ Email: amin.dev46565@gmail.com
-- 💬 Telegram: [@amin_dev5](https://t.me/amin_dev5)
+### 📫 Let's Connect
+<div align="center">
+  <a href="https://www.aminhashempour.ir"><img src="https://img.shields.io/badge/Website-64ffda?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
+  <a href="mailto:amin.dev46565@gmail.com"><img src="https://img.shields.io/badge/Email-64ffda?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://t.me/amin_dev5"><img src="https://img.shields.io/badge/Telegram-64ffda?style=for-the-badge&logo=telegram&logoColor=black"/></a>
+</div>
 
 <div align="center">
-  <i>Open to collaborations on Web and AI projects! ⭐ Star my repos if you like them 🚀</i>
+  <i>Open for collaborations • Star if you like it ⭐</i>
 </div>
