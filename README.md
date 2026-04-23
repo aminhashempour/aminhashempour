@@ -1,52 +1,98 @@
-<div align="center">
+# Amin Hashempour
 
-  <img src="https://github.com/aminhashempour.png?size=200" width="150" style="border-radius:50%; border:4px solid #64ffda;" alt="Amin"/>
+**AI & Web Developer** | **14 years old** | **Iran**
 
-  <h1>Hey, I'm Amin 🚀</h1>
-  
-  <p>
-    <code>Web Programmer & AI Enthusiast</code><br/>
-    Building the future with code, one commit at a time.
-  </p>
+[![GitHub followers](https://img.shields.io/github/followers/amin-hashempour?style=social)](https://github.com/aminhashempour)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin_hashempour4)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:amin.dev46565@gmail.com)
 
-  <img src="https://komarev.com/ghpvc/?username=aminhashempour&color=64ffda&style=for-the-badge&label=PROFILE+VIEWS" alt="views"/>
+---
 
-  <br/><br/>
+## 🚀 About Me
 
-  <!-- GitHub Snake -->
-  <img src="https://github.com/aminhashempour/aminhashempour/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+I'm a **14-year-old self-taught AI and Web Developer** from Iran with **5+ years of coding experience**. I started programming at age 9 and never stopped.
 
-</div>
+- 🔭 I'm currently working on **AI models and full-stack web applications**
+- 🌱 I've completed **Harvard's CS50 AI** course
+- 🏆 **Dubai Million Awardee** – A special initiative by the Crown Prince of Dubai
+- 🥇 **Kaggle Competitor** – Active in data science competitions
+- 📜 **freeCodeCamp Certified** – Multiple certifications
+- 💬 Ask me about **Python, TensorFlow, PyTorch, Django, FastAPI, React**
+- ⚡ Fun fact: I solved my first coding problem at age 9
 
-### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,js,flutter,git,github,vscode,&perline=8&theme=dark" />
-</p>
+---
 
-### 📊 Activity & Stats
-<div align="center">
+## 🎓 Certifications & Achievements
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminhashempour&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminhashempour&layout=compact&theme=react&hide_border=true"/>
+| Certification | Issuer | Year |
+|---------------|--------|------|
+| **CS50's Introduction to Artificial Intelligence with Python** | Harvard University | 2024 |
+| **freeCodeCamp – Machine Learning with Python** | freeCodeCamp | 2024 |
+| **freeCodeCamp – Data Analysis with Python** | freeCodeCamp | 2024 |
+| **Dubai Million Award** | Crown Prince of Dubai Initiative | 2024 |
+| **Kaggle Competitions** | Kaggle | Active |
 
-  <br/><br/>
+---
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminhashempour&theme=react&hide_border=true" alt="streak"/>
+## 🛠️ Tech Stack
 
-</div>
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 
-### 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aminhashempour&theme=onedark&no-frame=true&margin-w=15&row=1" />
-</div>
+### Web Development
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-### 📫 Let's Connect
-<div align="center">
-  <a href="https://www.aminhashempour.ir"><img src="https://img.shields.io/badge/Website-64ffda?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
-  <a href="mailto:amin.dev46565@gmail.com"><img src="https://img.shields.io/badge/Email-64ffda?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-  <a href="https://t.me/amin_dev5"><img src="https://img.shields.io/badge/Telegram-64ffda?style=for-the-badge&logo=telegram&logoColor=black"/></a>
-</div>
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-<div align="center">
-  <i>Open for collaborations • Star if you like it ⭐</i>
-</div>
+---
+
+## 📊 GitHub Stats
+
+![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=amin-hashempour&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-hashempour&layout=compact&theme=radical)
+
+---
+
+## 🌐 Languages
+
+| Language | Proficiency |
+|----------|-------------|
+| **Persian (Farsi)** | Native |
+| **Kurdish** | Native |
+| **English** | Intermediate (B2) – Actively improving |
+
+---
+
+## 📂 Featured Projects
+
+Coming soon:
+
+1. **AI-Powered Diagnostic Tool** – Machine learning model for early disease detection
+2. **Smart Web Scraper** – Automated data extraction with NLP
+3. **Real-time Chat Application** – Full-stack with Django Channels + React
+
+---
+
+## 📫 Contact Me
+
+- GitHub: [@aminhashempour](https://github.com/aminhashempour)
+- Email: amin.dev46565@gmail.com
+- Telegram: @amin_dev9
+
+---
+
+*"Code is poetry. AI is the future."*
