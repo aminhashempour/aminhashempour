@@ -2,8 +2,8 @@
 
 **AI & Web Developer** | **14 years old** | **Iran**
 
-[![GitHub followers](https://img.shields.io/github/followers/amin-hashempour?style=social)](https://github.com/aminhashempour)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin_hashempour4)
+[![GitHub followers](https://img.shields.io/github/followers/aminhashempour?style=social)](https://github.com/aminhashempour)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin-hashempour)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:amin.dev46565@gmail.com)
 
 ---
@@ -15,8 +15,8 @@ I'm a **14-year-old self-taught AI and Web Developer** from Iran with **5+ years
 - 🔭 I'm currently working on **AI models and full-stack web applications**
 - 🌱 I've completed **Harvard's CS50 AI** course
 - 🏆 **Dubai Million Awardee** – A special initiative by the Crown Prince of Dubai
-- 🥇 **Kaggle Competitor** – Active in data science competitions
-- 📜 **freeCodeCamp Certified** – Multiple certifications
+- 📜 **HP Certified in AI & Data Science**
+- 📜 **freeCodeCamp Certified** – Machine Learning, Data Analysis, and Responsive Web Design
 - 💬 Ask me about **Python, TensorFlow, PyTorch, Django, FastAPI, React**
 - ⚡ Fun fact: I solved my first coding problem at age 9
 
@@ -27,9 +27,12 @@ I'm a **14-year-old self-taught AI and Web Developer** from Iran with **5+ years
 | Certification | Issuer | Year |
 |---------------|--------|------|
 | **CS50's Introduction to Artificial Intelligence with Python** | Harvard University | 2024 |
-| **freeCodeCamp – Machine Learning with Python** | freeCodeCamp | 2024 |
-| **freeCodeCamp – Data Analysis with Python** | freeCodeCamp | 2024 |
-| **Dubai** | Crown Prince of Dubai Initiative | 2024 |
+| **Artificial Intelligence & Data Science** | HP (Hewlett Packard) | 2024 |
+| **Machine Learning with Python** | freeCodeCamp | 2024 |
+| **Data Analysis with Python** | freeCodeCamp | 2024 |
+| **Responsive Web Design** | freeCodeCamp | 2024 |
+| **Dubai Million Award** | Crown Prince of Dubai Initiative | 2024 |
+
 ---
 
 ## 🛠️ Tech Stack
