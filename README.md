@@ -29,9 +29,7 @@ I'm a **14-year-old self-taught AI and Web Developer** from Iran with **5+ years
 | **CS50's Introduction to Artificial Intelligence with Python** | Harvard University | 2024 |
 | **freeCodeCamp – Machine Learning with Python** | freeCodeCamp | 2024 |
 | **freeCodeCamp – Data Analysis with Python** | freeCodeCamp | 2024 |
-| **Dubai Million Award** | Crown Prince of Dubai Initiative | 2024 |
-| **Kaggle Competitions** | Kaggle | Active |
-
+| **Dubai** | Crown Prince of Dubai Initiative | 2024 |
 ---
 
 ## 🛠️ Tech Stack
