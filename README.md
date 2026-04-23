@@ -26,11 +26,11 @@ I'm a **14-year-old self-taught AI and Web Developer** from Iran with **5+ years
 
 | Certification | Issuer | Field | Year |
 |---------------|--------|-------|------|
-| **CS50's Introduction to Artificial Intelligence with Python** | Harvard University | AI | 2024 |
-| **Artificial Intelligence** | HP (Hewlett Packard) | AI | 2024 |
-| **Data Science** | HP (Hewlett Packard) | Data Science | 2024 |
-| **Responsive Web Design** | freeCodeCamp | Frontend Development | 2024 |
-| **Dubai** | Crown Prince of Dubai Initiative | AI | 2024 |
+| **CS50's Introduction to Artificial Intelligence with Python** | Harvard University | AI | 2025 |
+| **Artificial Intelligence** | HP (Hewlett Packard) | AI | 2025 |
+| **Data Science** | HP (Hewlett Packard) | Data Science | 2025 |
+| **Responsive Web Design** | freeCodeCamp | Frontend Development | 2025 |
+| **Dubai** | Crown Prince of Dubai Initiative | AI | 2025 |
 
 ---
 
@@ -73,7 +73,7 @@ I'm a **14-year-old self-taught AI and Web Developer** from Iran with **5+ years
 |----------|-------------|
 | **Persian (Farsi)** | Native |
 | **Kurdish** | Native |
-| **English** | Intermediate (B2) – Actively improving |
+| **English** | Intermediate (B1) – Actively improving |
 
 ---
 
