@@ -3,7 +3,7 @@
 **AI & Web Developer** | **14 years old** | **Iran**
 
 [![GitHub followers](https://img.shields.io/github/followers/aminhashempour?style=social)](https://github.com/aminhashempour)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin_hashempour4)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amin-hashempour)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:amin.dev46565@gmail.com)
 
 ---
